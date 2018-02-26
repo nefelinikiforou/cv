@@ -12,8 +12,11 @@ e-mail      : [p15niki@ionio.gr] (p15niki@ionio.gr)
 ## 2. Σπουδές
 2015-σήμερα : Ιόνιο Πανεπιστήμιο, Κέρκυρα
 
-              Τμήμα Πληροφορικής
+                Τμήμα Πληροφορικής
 
-              Προπτυχιακή φοιτήτρια
+                Προπτυχιακή φοιτήτρια
 
 ## 3. Ξένες Γλώσσες
+Αγγλικά     : Certificate of Proficiency in English, University of Michigan
+
+Γαλλικά     : B2 DELF Junior, Instituit de Francais
